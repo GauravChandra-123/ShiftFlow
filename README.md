@@ -1,6 +1,6 @@
 # 📅 Employee Shift Management System
 
-A modern Flutter and Firebase based Employee Shift Management application designed for organizations to manage employee availability, shift scheduling, attendance tracking, breaks, leave requests, notifications, and analytics through an intuitive calendar-driven interface.
+A modern Flutter and Firebase-based Employee Shift Management application designed for organisations to manage employee availability, shift scheduling, attendance tracking, breaks, leave requests, notifications, and analytics through an intuitive calendar-driven interface.
 
 🚀 Features
 👨‍💼 Admin Module
@@ -15,16 +15,16 @@ Real-time notifications
 Dashboard and analytics screen
 Calendar-based shift management
 👷 Employee Module
-Login using phone number and password
+Log in using phone number and password
 Upload profile photo
-Submit shift availability using calendar
+Submit shift availability using the calendar
 View approved and rejected shifts
 Check in to shift
 Start and end breaks
-Check out from shift
+Check out of the shift
 Apply for leave
 View leave status
-Receive notifications from admin
+Receive notifications from the admin
 Calendar-based shift tracking
 📊 Dashboard Analytics
 
@@ -138,35 +138,38 @@ employees
 │         └── notification documents
 📱 Screenshots
 Login Screen
+<img width="853" height="1844" alt="ChatGPT Image Jun 19, 2026, 08_19_53 PM" src="https://github.com/user-attachments/assets/6459ecac-d352-47d5-ade1-b80b958678a4" />
 
-Add screenshot here
+Admin Home Page
+<img width="1024" height="1536" alt="ChatGPT Image Jun 19, 2026, 08_22_18 PM" src="https://github.com/user-attachments/assets/d3d753f4-8149-4115-a800-ef1865d26247" />
 
-![Login](screenshots/login.png)
 Admin Dashboard
+<img width="853" height="1844" alt="ChatGPT Image Jun 19, 2026, 08_30_09 PM" src="https://github.com/user-attachments/assets/539bfbdb-c74c-4d9e-815d-1cacbb2a34e9" />
 
-Add screenshot here
 
-![Dashboard](screenshots/dashboard.png)
 Admin Shift Calendar
+<img width="1024" height="1536" alt="ChatGPT Image Jun 19, 2026, 08_48_05 PM" src="https://github.com/user-attachments/assets/202261ea-d95c-4630-9641-4fa3bbd48c5b" />
 
-Add screenshot here
 
-![Admin Calendar](screenshots/admin_calendar.png)
+Employee Home Page
+<img width="853" height="1844" alt="ChatGPT Image Jun 19, 2026, 08_31_26 PM" src="https://github.com/user-attachments/assets/5bbaf54f-6aa4-494d-b456-4062234a5444" />
+
+
 Employee Shift Calendar
+<img width="1024" height="1536" alt="ChatGPT Image Jun 19, 2026, 08_44_30 PM" src="https://github.com/user-attachments/assets/5738076b-8996-4214-a85d-96ee67213ee6" />
 
-Add screenshot here
 
-![Employee Calendar](screenshots/employee_calendar.png)
-Leave Management
+App screenshots:
 
-Add screenshot here
+<img width="853" height="1844" alt="ChatGPT Image Jun 19, 2026, 09_10_48 PM" src="https://github.com/user-attachments/assets/1bcf1efb-3219-41ec-9356-7b4034d202ee" />
 
-![Leave Management](screenshots/leave.png)
-Notifications
+<img width="837" height="1880" alt="ChatGPT Image Jun 19, 2026, 08_24_00 PM" src="https://github.com/user-attachments/assets/edd1eda8-42ff-498d-8922-65fde311c6b9" />
 
-Add screenshot here
+<img width="852" height="1846" alt="ChatGPT Image Jun 19, 2026, 08_33_57 PM" src="https://github.com/user-attachments/assets/cc211523-5e0f-47b6-9849-5c32e464ffa7" />
 
-![Notifications](screenshots/notifications.png)
+
+
+
 🎯 Real World Use Cases
 Restaurants
 Hotels
